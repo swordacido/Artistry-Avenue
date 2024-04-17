@@ -1,0 +1,15 @@
+{
+  "name": "artistry-avenue",
+  "version": "1.0.0",
+  "description": "Una tienda virtual que vendera productos artesanales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animejs": "^3.2.2",
+    "astro": "^4.6.2"
+  }
+}
